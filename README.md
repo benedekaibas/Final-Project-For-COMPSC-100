@@ -11,3 +11,6 @@ My repository contains all the codes and details of my final project.
 My idea was to make a game that tests the knowledge of tennis enthusiasts. The point of the game is to match the player with his racket
 and get scores based on how well your matches were. This project is good for showing the learning outcomes of the class. 
 
+## A quick look of the game 
+
+![image](https://github.com/benedekaibas/Final-Project-For-COMPSC-100/assets/82393336/7a12b601-d79e-4ac6-b95f-8001538f1eae)
